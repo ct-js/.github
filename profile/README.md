@@ -6,7 +6,7 @@
   •
   <a href="https://comigo.itch.io/ct-nightly">Nightly versions</a>
   •
-  <a href="https://discord.gg/CggbPkb">Discord (En)</a> <a href="https://discord.gg/HGbzZw4Prt">(Ru)</a>
+  <a href="https://discord.gg/yuvuDW5">Discord (En)</a> <a href="https://discord.gg/HGbzZw4Prt">(Ru)</a>
   •
   <a href="https://forum.ctjs.rocks/">Forum</a>
   •
